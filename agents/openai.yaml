@@ -1,0 +1,4 @@
+interface:
+  display_name: "DualFrame · 双帧"
+  short_description: "先沟通选题，再制作上下同屏、语义完整切换的DualFrame · 双帧"
+  default_prompt: "使用 $dualframe，先和我沟通这次想做的人物或主题，确认后制作双语对比视频。"
